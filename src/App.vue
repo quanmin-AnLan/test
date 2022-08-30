@@ -3,7 +3,7 @@
     <p></p>
     <!-- 使用组件 -->
     <div>
-      <amccc></amccc>
+      <al-world></al-world>
     </div>
   </div>
 </template>
